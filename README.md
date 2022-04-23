@@ -20,7 +20,11 @@
 
 # 海外生活
 
-# 工具
+# 资料汇总
 
-# 精华分享
+## 精华分享
 - [如何找到时薪80美元的远程工作](https://geekplux.com/posts/how-to-get-jobs-pay-80-dollars-per-hour-1)
+ 
+## 网站
+
+- https://eleduck.com/

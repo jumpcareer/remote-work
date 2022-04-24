@@ -38,7 +38,6 @@
 - [有轻功](http://www.youqinggong.com/)  
 - [云沃客](https://www.clouderwork.com/)  
 - [自由驿站](https://ziyouyizhan.com/)  
-- [自由驿站](https://ziyouyizhan.com/)  
 - [圆领](https://www.yuanling.com/)  
 
 

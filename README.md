@@ -1,21 +1,8 @@
 # 让我们一起找到梦想中的remote work！
 
 <!--ts-->
-* [让我们一起找到梦想中的remote work！](#让我们一起找到梦想中的remote-work)
-* [职位信息](#职位信息)
-   * [大厂招聘](#大厂招聘)
-   * [招聘平台](#招聘平台)
-   * [内推](#内推)
-   * [外包平台](#外包平台)
-   * [面试](#面试)
-      * [刷题](#刷题)
-      * [系统设计](#系统设计)
-* [移民](#移民)
-   * [澳大利亚](#澳大利亚)
-* [海外生活](#海外生活)
-* [资料汇总](#资料汇总)
-   * [精华分享](#精华分享)
-   * [网站&amp;工具](#网站工具)
+
+
 <!--te-->
 
 # 职位信息
@@ -57,14 +44,13 @@
 - [自由驿站](https://ziyouyizhan.com/)  
 - [圆领](https://www.yuanling.com/)  
 
-## 面试
+# 面试
 
-### 刷题
+## 刷题
 
 - https://oi-wiki.org/
 
-### 系统设计
-
+## 系统设计
 
 
 # 移民
@@ -84,9 +70,7 @@
 ## 网站&工具
 
 - [levels.fyi]([https://www.levels.fyi/](https://www.levels.fyi/)) - 职级比较查询
-
 - [职级对标](https://duibiao.info/)
-
 - [电鸭社区](https://eleduck.com/)
 - [v2ex ](https://www.v2ex.com/)
 - [ruby-china](https://ruby-china.org)

@@ -25,6 +25,23 @@
 
 ## 内推
 
+## 外包平台
+- [Upwork](https://www.upwork.com/)
+- [Freelancer 中国](https://www.freelancer.cn/)  
+- [TIANCAI](https://tiancai.pro/)  
+- [码市](https://mart.coding.net/)  
+- [英选](https://www.yingxuan.io/)  
+- [程序员客栈](https://www.proginn.com/)  
+- [厘米脚印](http://www.limijiaoyin.com/)  
+- [实现网](http://shixian.com/)  
+- [自由人](http://www.freemancn.com/)  
+- [有轻功](http://www.youqinggong.com/)  
+- [云沃客](https://www.clouderwork.com/)  
+- [自由驿站](https://ziyouyizhan.com/)  
+- [自由驿站](https://ziyouyizhan.com/)  
+- [圆领](https://www.yuanling.com/)  
+
+
 # 面试
 
 # 移民

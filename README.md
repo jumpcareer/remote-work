@@ -1,21 +1,21 @@
 让我们一起找到梦想中的remote work！
 
 <!--ts-->
+
 * [职位信息](#职位信息)
-   * [大厂招聘](#大厂招聘)
-   * [招聘平台](#招聘平台)
-   * [内推](#内推)
-   * [外包平台](#外包平台)
+  * [大厂招聘](#大厂招聘)
+  * [招聘平台](#招聘平台)
+  * [内推](#内推)
+  * [外包平台](#外包平台)
 * [面试](#面试)
-      * [刷题](#刷题)
-      * [系统设计](#系统设计)
 * [移民](#移民)
-   * [澳大利亚](#澳大利亚)
+  * [澳大利亚](#澳大利亚)
 * [海外生活](#海外生活)
 * [资料汇总](#资料汇总)
-   * [精华分享](#精华分享)
-   * [网站&amp;工具](#网站工具)
-<!--te-->
+  * [精华分享](#精华分享)
+  * [网站](#网站)
+    
+    <!--te-->
 
 # 职位信息
 
@@ -28,7 +28,7 @@
 
 ## 招聘平台
 
-- [Linkedin](https://www.linkedin.com/)
+- [LinkedIn](https://www.linkedin.com/)
 - [GitHub Jobs](https://jobs.github.com/)
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 - [Product Hunt Jobs](https://www.producthunt.com/jobs)
@@ -60,7 +60,7 @@
 
 ### 刷题
 
-- <https://oi-wiki.org/>
+- https://oi-wiki.org/
 
 ### 系统设计
 

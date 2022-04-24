@@ -2,21 +2,20 @@
 
 <!--ts-->
 
-- [职位信息](#职位信息)
-  - [大厂招聘](#大厂招聘)
-  - [招聘平台](#招聘平台)
-  - [内推](#内推)
-  - [外包平台](#外包平台)
-- [面试](#面试)
-- [移民](#移民)
-  - [澳大利亚](#澳大利亚)
-- [海外生活](#海外生活)
-- [资料汇总](#资料汇总)
-  - [精华分享](#精华分享)
-  - [网站](#网站)
-    - [论坛](#论坛)
+* [职位信息](#职位信息)
+  * [大厂招聘](#大厂招聘)
+  * [招聘平台](#招聘平台)
+  * [内推](#内推)
+  * [外包平台](#外包平台)
+* [面试](#面试)
+* [移民](#移民)
+  * [澳大利亚](#澳大利亚)
+* [海外生活](#海外生活)
+* [资料汇总](#资料汇总)
+  * [精华分享](#精华分享)
+  * [网站](#网站)
     
-<!--te-->
+    <!--te-->
 
 # 职位信息
 
@@ -35,7 +34,9 @@
 - [Product Hunt Jobs](https://www.producthunt.com/jobs)
 - [AngelList](https://angel.co/)
 - [Jobs at YC startups](https://news.ycombinator.com/jobs)
-- [电鸭社区](https://eleduck.com/)
+- [电鸭社区](https://eleduck.com/categories/22)
+- [v2ex 酷工作](https://www.v2ex.com/?tab=jobs)
+- [招聘 · Ruby China](https://ruby-china.org/jobs)
 
 ## 内推
 
@@ -57,6 +58,8 @@
 
 # 面试
 
+### 刷题
+
 # 移民
 
 ## 澳大利亚
@@ -76,3 +79,5 @@
 ### 论坛
 
 - [电鸭社区](https://eleduck.com/)
+- [v2ex ](https://www.v2ex.com/)
+- [ruby-china](https://ruby-china.org)

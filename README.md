@@ -4,7 +4,12 @@
 <h1 align="center" style="margin-top: 0px;">Jump Career</h1>
 
 <p align="center" >让我们一起找到梦想中的remote work！</p>
-
+  <a>
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="remote-work is released under the MIT license." />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+  </a>
 
 <!--ts-->
 * [Jump Career](#jump-career)

@@ -1,9 +1,9 @@
 <p align="center" style="margin-bottom: 0px !important;">
   <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo" align="center">
 </p>
-<p align="center" style="margin-top:0px;font-weight:700;font-size:20px" >
+<h1 align="center" style="margin-top:0px;font-weight:700;font-size:20px" >
   Jump Career
-</p>
+</h1>
 
 <h3 align="center" >让我们一起找到梦想中的remote work！</h3>
 <p align="center">
@@ -17,24 +17,6 @@
     <img src="https://img.shields.io/badge/license-CC--4.0--BY--NC--SA-lightgrey" />
   </a>
 </p>
-
-
-<!--ts-->
-      * [让我们一起找到梦想中的remote work！](#让我们一起找到梦想中的remote-work)
-* [职位信息](#职位信息)
-   * [大厂&amp;Transfer](#大厂transfer)
-   * [招聘平台](#招聘平台)
-   * [外包&amp;自由职业](#外包自由职业)
-* [面试](#面试)
-   * [刷题](#刷题)
-   * [系统设计](#系统设计)
-* [移民](#移民)
-   * [澳大利亚](#澳大利亚)
-* [海外生活](#海外生活)
-* [资料汇总](#资料汇总)
-   * [精华分享](#精华分享)
-   * [网站&amp;工具](#网站工具)
-<!--te-->
 
 # 职位信息
 

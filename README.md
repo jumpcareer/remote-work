@@ -1,11 +1,10 @@
-<p align="center">
-
 <p align="center" style="margin-bottom: 0px !important;">
   <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo" align="center">
 </p>
-<h3 align="center" style="margin-top: 0px;">Jump Career</h3>
+<h1 align="center" style="margin-top: 0px;">Jump Career</h1>
 
-<p align="center" >让我们一起找到梦想中的remote work！</p>
+<h3 align="center" >让我们一起找到梦想中的remote work！</h3>
+<p align="center">
   <a>
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="remote-work is released under the MIT license." />
   </a>
@@ -14,8 +13,9 @@
   </a>
 </p>
 
+
 <!--ts-->
-      * [Jump Career](#jump-career)
+
 * [职位信息](#职位信息)
    * [大厂&amp;Transfer](#大厂transfer)
    * [招聘平台](#招聘平台)

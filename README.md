@@ -15,7 +15,7 @@
 </p>
 
 <!--ts-->
-* [Jump Career](#jump-career)
+      * [Jump Career](#jump-career)
 * [职位信息](#职位信息)
    * [大厂&amp;Transfer](#大厂transfer)
    * [招聘平台](#招聘平台)

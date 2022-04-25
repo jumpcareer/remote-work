@@ -11,6 +11,9 @@
   <a>
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/license-CC--4.0--BY--NC--SA-lightgrey" />
+  </a>
 </p>
 
 

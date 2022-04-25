@@ -1,7 +1,9 @@
+<p align="center">
+
 <p align="center" style="margin-bottom: 0px !important;">
   <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo" align="center">
 </p>
-<h1 align="center" style="margin-top: 0px;">Jump Career</h1>
+<h3 align="center" style="margin-top: 0px;">Jump Career</h3>
 
 <p align="center" >让我们一起找到梦想中的remote work！</p>
   <a>
@@ -10,6 +12,7 @@
   <a>
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
   </a>
+</p>
 
 <!--ts-->
 * [Jump Career](#jump-career)

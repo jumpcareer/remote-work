@@ -5,7 +5,7 @@
   Jump Career
 </h1>
 
-<h3 align="center" >让我们一起找到梦想中的remote work！</h3>
+<h3 align="center" >让我们一起找到梦想中的工作！</h3>
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="remote-work is released under the MIT license." />

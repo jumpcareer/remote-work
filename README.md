@@ -78,8 +78,11 @@
 - 精华分享
   - [如何找到时薪80美元的远程工作](https://geekplux.com/posts/how-to-get-jobs-pay-80-dollars-per-hour-1)
 - 网站&工具
+  - [1point3acres](https://www.1point3acres.com/) - 一亩三分地，美国华人留学找工作最好的论坛
   - [levels.fyi](https://www.levels.fyi/) - 职级比较查询
-  - [职级对标](https://duibiao.info/)
+  - [glassdoor](https://www.glassdoor.com/) - 公司评价，offer比较
+  - [blind](https://www.teamblind.com/) - 国外最大的匿名职场社区
+  - [职级对标](https://duibiao.info/) - levels.fyi中国版
   - [远程工作者](https://www.yuque.com/greatghoul/remote) - 自由职业资料汇总
   - [电鸭社区](https://eleduck.com/)
   - [v2ex ](https://www.v2ex.com/)

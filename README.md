@@ -62,7 +62,7 @@
 * 系统设计
   * [GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
   * [GitHub - checkcheckzz/system-design-interview: System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
-  * GitHub - tssovi/grokking-the-object-oriented-design-interview]([GitHub - tssovi/grokking-the-object-oriented-design-interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview))
+  * [GitHub - tssovi/grokking-the-object-oriented-design-interview]([GitHub - tssovi/grokking-the-object-oriented-design-interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview))
 * 其他
   * [GitHub - CyC2018/CS-Notes: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计](https://github.com/CyC2018/CS-Notes)
 

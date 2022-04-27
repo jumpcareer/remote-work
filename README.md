@@ -53,12 +53,16 @@
 # 面试
 
 * 算法
+  * https://leetcode.com/ - 不用多说
+  * [https://leetcode-cn.com/](https://leetcode-cn.com/) - 题目与英文版一一对应，无需会员可查看全部题解，也包括一些国内面试的常见题目
   * [GitHub - azl397985856/leetcode: LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)](https://github.com/azl397985856/leetcode)
   * [GitHub - labuladong/fucking-algorithm: 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.](https://github.com/labuladong/fucking-algorithm)
+  * [GitHub - ninechapter-algorithm/linghu-algorithm-templete](https://github.com/ninechapter-algorithm/linghu-algorithm-templete) - 九章算法的开源项目
   * [https://oi-wiki.org/](https://oi-wiki.org/)
 * 系统设计
   * [GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
-  * [GitHub - tssovi/grokking-the-object-oriented-design-interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
+  * [GitHub - checkcheckzz/system-design-interview: System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
+  * GitHub - tssovi/grokking-the-object-oriented-design-interview]([GitHub - tssovi/grokking-the-object-oriented-design-interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview))
 * 其他
   * [GitHub - CyC2018/CS-Notes: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计](https://github.com/CyC2018/CS-Notes)
 

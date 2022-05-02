@@ -25,6 +25,9 @@
   - Microsoft - [全球](https://careers.microsoft.com/professionals/us/en/search-results) | [中国](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=China) | [加拿大](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=Canada) | [澳大利亚](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=Australia) | [英国](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=United%20Kingdom) | [欧洲其他](https://careers.microsoft.com/professionals/us/en/locations#Europe) | [日本](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=Japan) | [新加坡](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=Singapore) | [美国](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=United%20States)
   - Airbnb - [全球](https://careers.airbnb.com/positions/) | 中国 | 美国
   - Snapchat - [全球](https://snap.com/en-US/jobs) | 中国([北京](https://snap.com/en-US/jobs?locations=Beijing) | [深圳](https://snap.com/en-US/jobs?locations=Shenzhen)) | [新加坡](https://snap.com/en-US/jobs?locations=Singapore) | [美国](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=United%20States)
+  - SmartNews - [全球](https://careers.smartnews.com/jobs/) | 中国 | 日本 | 新加坡 | 美国
+  - Workstream - [全球](https://careers.workstream.us/) | 中国 | 加拿大 
+  - FreeWheel - 
 - 招聘平台
   - [LinkedIn](https://www.linkedin.com/)
   - [GitHub Jobs](https://jobs.github.com/)
@@ -84,6 +87,7 @@
   - [blind](https://www.teamblind.com/) - 国外最大的匿名职场社区
   - [职级对标](https://duibiao.info/) - levels.fyi中国版
   - [远程工作者](https://www.yuque.com/greatghoul/remote) - 自由职业资料汇总
+  - [open-source-jobs](https://github.com/t9tio/open-source-jobs) - 开源社区工作汇总
   - [电鸭社区](https://eleduck.com/)
   - [v2ex ](https://www.v2ex.com/)
   - [ruby-china](https://ruby-china.org)

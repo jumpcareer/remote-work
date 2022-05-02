@@ -27,7 +27,8 @@
   - Snapchat - [全球](https://snap.com/en-US/jobs) | 中国([北京](https://snap.com/en-US/jobs?locations=Beijing) | [深圳](https://snap.com/en-US/jobs?locations=Shenzhen)) | [新加坡](https://snap.com/en-US/jobs?locations=Singapore) | [美国](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=United%20States)
   - SmartNews - [全球](https://careers.smartnews.com/jobs/) | 中国 | 日本 | 新加坡 | 美国
   - Workstream - [全球](https://careers.workstream.us/) | 中国 | 加拿大 
-  - FreeWheel - 
+  - FreeWheel - [全球](https://comcast.jibeapply.com/main/jobs?keywords=freewheel&sortBy=relevance&page=1) | [中国](https://comcast.jibeapply.com/main/jobs?keywords=freewheel&sortBy=relevance&page=1&locations=Beijing,11,CN) | [英国](https://comcast.jibeapply.com/main/jobs?keywords=freewheel&sortBy=relevance&page=1&locations=London,,GB) | [新加坡](https://comcast.jibeapply.com/main/jobs?keywords=freewheel&sortBy=relevance&page=1&locations=Singapore,,SG) | [美国](https://comcast.jibeapply.com/main/jobs?keywords=freewheel&sortBy=relevance&page=1&location=us&stretch=10&stretchUnit=MILES)
+  - Zoom - [全球](https://careers.zoom.us/jobs/search?page=1&query=) | [中国](https://www.zhipin.com/gongsi/56cf5a2d7754fc0b1nV729u6FA~~.html) | [加拿大](https://careers.zoom.us/jobs/search?page=1&country_codes%5B%5D=CA&query=) | [澳大利亚](https://careers.zoom.us/jobs/search?page=1&country_codes%5B%5D=AU&query=) | [英国](https://careers.zoom.us/jobs/search?page=1&country_codes%5B%5D=GB&query=) | [德国](https://careers.zoom.us/jobs/search?page=1&country_codes%5B%5D=DE&query=) | [荷兰](https://careers.zoom.us/jobs/search?page=1&country_codes%5B%5D=NL&query=) | [日本](https://careers.zoom.us/jobs/search?page=1&country_codes%5B%5D=JP&query=) | [新加坡](https://careers.zoom.us/jobs/search?page=1&country_codes%5B%5D=SG&query=) | [美国](https://careers.zoom.us/jobs/search?page=1&country_codes%5B%5D=US&query=)
 - 招聘平台
   - [LinkedIn](https://www.linkedin.com/)
   - [GitHub Jobs](https://jobs.github.com/)

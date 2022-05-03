@@ -78,6 +78,8 @@
 
 - 澳大利亚
   - [2020澳洲技术移民分详解](https://zhuanlan.zhihu.com/p/39336962)
+- 沙特阿拉伯
+  - 
 
 # 海外生活
 
@@ -85,6 +87,13 @@
 
 - 精华分享
   - [如何找到时薪80美元的远程工作](https://geekplux.com/posts/how-to-get-jobs-pay-80-dollars-per-hour-1)
+  - 弈心 - 沙特阿拉伯 - KAUST
+    - [在沙特阿卜杜拉国王科技大学（KAUST）就读或者任教是一种怎样的体验？ - 弈心的回答 - 知乎](https://www.zhihu.com/question/33274986/answer/188049916)
+    - [海归35岁，阿里P7offer, 是否接受？ - 弈心的回答 - 知乎](https://www.zhihu.com/question/397605632/answer/2424524835)
+    - [出国给你最大的感受是什么？ - 弈心的回答 - 知乎](https://www.zhihu.com/question/30215562/answer/2153979578)
+    - [网络工程师在国外和国内工作都有哪些不一样的体验？ - 弈心的回答 - 知乎](https://www.zhihu.com/question/339990110/answer/1546431425)
+    - [在阿卜杜拉国王科技大学(KAUST)工作是一种怎样的体验？ - 弈心的回答 - 知乎](https://www.zhihu.com/question/319635794/answer/647707571)
+      
 - 网站&工具
   - [1point3acres](https://www.1point3acres.com/) - 一亩三分地，美国华人留学找工作最好的论坛
   - [levels.fyi](https://www.levels.fyi/) - 职级比较查询

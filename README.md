@@ -57,6 +57,10 @@
   - [云沃客](https://www.clouderwork.com/)  
   - [自由驿站](https://ziyouyizhan.com/)  
   - [圆领](https://www.yuanling.com/)  
+- 其他
+  - [GitHub - lukasz-madon/awesome-remote-job: A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python](https://github.com/lukasz-madon/awesome-remote-job)
+  - [GitHub - remoteintech/remote-jobs: A list of semi to fully remote-friendly companies (jobs) in tech.](https://github.com/remoteintech/remote-jobs)
+  - [GitHub - t9tio/open-source-jobs: A list of Open Source projects offering jobs.](https://github.com/t9tio/open-source-jobs)
 
 # 面试
 
@@ -101,7 +105,6 @@
   - [blind](https://www.teamblind.com/) - 国外最大的匿名职场社区
   - [职级对标](https://duibiao.info/) - levels.fyi中国版
   - [远程工作者](https://www.yuque.com/greatghoul/remote) - 自由职业资料汇总
-  - [open-source-jobs](https://github.com/t9tio/open-source-jobs) - 开源社区工作汇总
   - [电鸭社区](https://eleduck.com/)
   - [v2ex ](https://www.v2ex.com/)
   - [ruby-china](https://ruby-china.org)

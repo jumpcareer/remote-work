@@ -1,9 +1,6 @@
-<p align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src="https://user-images.githubusercontent.com/104236542/165194013-59d0dd2c-08b0-42ec-9a5a-a4b211c2473f.png" alt="Material Bread logo" align="center">
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/104236542/166746999-23de3a50-30ad-4dc4-bbed-6ddcc9ddcd82.jpg" alt="Material Bread logo" align="center">
 </p>
-<h1 align="center" style="margin-top:0px;font-weight:700;font-size:20px" >
-  Jump Career
-</h1>
 
 <h3 align="center" >让我们一起找到梦想中的工作！</h3>
 <p align="center">

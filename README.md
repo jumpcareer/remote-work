@@ -105,3 +105,6 @@
   - [电鸭社区](https://eleduck.com/)
   - [v2ex ](https://www.v2ex.com/)
   - [ruby-china](https://ruby-china.org)
+
+# 联系我们
+ - 内推、加群 - https://www.jumpcareer.xyz/

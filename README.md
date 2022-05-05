@@ -2,7 +2,9 @@
   <img width="200" src="https://user-images.githubusercontent.com/104236542/166746999-23de3a50-30ad-4dc4-bbed-6ddcc9ddcd82.jpg" alt="Material Bread logo" align="center">
 </p>
 
-<h3 align="center" >让我们一起找到梦想中的工作！</h3>
+<p align="center">
+  <b align="center" >让我们一起找到梦想中的工作！</b>
+</p>
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="remote-work is released under the MIT license." />

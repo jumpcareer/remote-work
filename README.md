@@ -20,8 +20,9 @@
 # 职位信息
 
 - 直招&Transfer
-  - Amazon - [全球](https://www.amazon.jobs/zh/) | [中国](https://www.amazon.jobs/zh/search?base_query=&loc_query=China&latitude=&longitude=&loc_group_id=&invalid_location=false&country=CHN&city=&region=&county=) | [加拿大](https://www.amazon.jobs/zh/search?base_query=&loc_query=Canada&latitude=&longitude=&loc_group_id=&invalid_location=false&country=CAN&city=&region=&county=) | [澳大利亚](https://www.amazon.jobs/zh/search?base_query=&loc_query=Australia&latitude=&longitude=&loc_group_id=&invalid_location=false&country=AUS&city=&region=&county=) | [英国](https://www.amazon.jobs/zh/search?base_query=&loc_query=UK&latitude=&longitude=&loc_group_id=&invalid_location=false&country=GBR&city=&region=&county=) | [卢森堡](https://www.amazon.jobs/zh/search?base_query=&loc_query=Canada&latitude=&longitude=&loc_group_id=&invalid_location=false&country=LUX&city=&region=&county=) | [日本](https://www.amazon.jobs/zh/search?base_query=&loc_query=Canada&latitude=&longitude=&loc_group_id=&invalid_location=false&country=JPN&city=&region=&county=) | [美国](https://www.amazon.jobs/zh/search?base_query=&loc_query=Canada&latitude=&longitude=&loc_group_id=&invalid_location=false&country=USA&city=&region=&county=)
-  - Microsoft - [全球](https://careers.microsoft.com/professionals/us/en/search-results) | [中国](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=China) | [加拿大](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=Canada) | [澳大利亚](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=Australia) | [英国](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=United%20Kingdom) | [欧洲其他](https://careers.microsoft.com/professionals/us/en/locations#Europe) | [日本](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=Japan) | [新加坡](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=Singapore) | [美国](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=United%20States)
+  - Amazon - [全球](https://www.amazon.jobs/zh/) | [中国](https://www.amazon.jobs/zh/search?base_query=&loc_query=China&latitude=&longitude=&loc_group_id=&invalid_location=false&country=CHN&city=&region=&county=) | [加拿大](https://www.amazon.jobs/zh/search?base_query=&loc_query=Canada&latitude=&longitude=&loc_group_id=&invalid_location=false&country=CAN&city=&region=&county=) | [澳大利亚](https://www.amazon.jobs/zh/search?base_query=&loc_query=Australia&latitude=&longitude=&loc_group_id=&invalid_location=false&country=AUS&city=&region=&county=) | [英国](https://www.amazon.jobs/zh/search?base_query=&loc_query=UK&latitude=&longitude=&loc_group_id=&invalid_location=false&country=GBR&city=&region=&county=) | [卢森堡](https://www.amazon.jobs/zh/search?base_query=&loc_query=Canada&latitude=&longitude=&loc_group_id=&invalid_location=false&country=LUX&city=&region=&county=) | [日本](https://www.amazon.jobs/zh/search?base_query=&loc_query=Canada&latitude=&longitude=&loc_group_id=&invalid_location=false&country=JPN&city=&region=&county=) | [美国](https://www.amazon.jobs/zh/search?base_query=&loc_query=Canada&latitude=&longitude=&loc_group_id=&invalid_location=false&country=USA&city=&region=&county=) | etc.
+  - Microsoft - [全球](https://careers.microsoft.com/professionals/us/en/search-results) | [中国](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=China) | [加拿大](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=Canada) | [澳大利亚](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=Australia) | [英国](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=United%20Kingdom) | [欧洲其他](https://careers.microsoft.com/professionals/us/en/locations#Europe) | [日本](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=Japan) | [新加坡](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=Singapore) | [美国](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=United%20States) | etc.
+  - Google - [全球](https://careers.google.com/?hl=zh-CN) | [中国](https://careers.google.com/jobs/results/?distance=50&hl=en_US&jlo=en_US&location=china&q=) | [英国](https://careers.google.com/jobs/results/?distance=50&hl=en_US&jlo=en_US&location=uk&q=) | [加拿大](https://careers.google.com/jobs/results/?distance=50&hl=en_US&jlo=en_US&location=Canada&q=) | [日本](https://careers.google.com/jobs/results/?distance=50&hl=en_US&jlo=en_US&location=japan) | [新加坡](https://careers.google.com/jobs/results/?distance=50&hl=en_US&jlo=en_US&location=singapore&q=) | [美国](https://careers.google.com/jobs/results/?distance=50&hl=en_US&jlo=en_US&location=us&q=) | etc
   - Airbnb - [全球](https://careers.airbnb.com/positions/) | 中国 | 美国
   - Snapchat - [全球](https://snap.com/en-US/jobs) | 中国([北京](https://snap.com/en-US/jobs?locations=Beijing) | [深圳](https://snap.com/en-US/jobs?locations=Shenzhen)) | [新加坡](https://snap.com/en-US/jobs?locations=Singapore) | [美国](https://careers.microsoft.com/professionals/us/en/search-results?qcountry=United%20States)
   - SmartNews - [全球](https://careers.smartnews.com/jobs/) | 中国 | 日本 | 新加坡 | 美国
@@ -32,6 +33,11 @@
   - Coupang - [全球](https://www.coupang.jobs/en/jobs/) | 中国 | 韩国 | 日本 | 新加坡 | 美国
   - Shopee - [全球](https://careers.shopee.sg/jobs) | 中国 | 韩国 | 日本 | 新加坡
   - Lazada - [全球](https://www.lazada.com/en/careers/job-search/?category=) | [中国](https://www.lazada.com/en/careers/job-search/?category=&location=CHN) | [新加坡](https://www.lazada.com/en/careers/job-search/?category=&location=SGP)
+  - SHEIN - [全球](https://talent.sheincorp.cn/#/) | [中国](https://talent.sheincorp.cn/#/WorkPlace) | [新加坡](https://talent.sheincorp.cn/#/JobList?place=Singapore&area=1) | [美国](https://talent.sheincorp.cn/#/JobList?place=USA&area=1) 
+  - Booking - [全球](https://jobs.booking.com/careers) | [中国](https://jobs.booking.com/careers?location=china&pid=562949955539107&domain=booking.com) |  [英国](https://jobs.booking.com/careers?location=united%20kindom&pid=562949955549421&domain=booking.com) | [荷兰](https://jobs.booking.com/careers?location=Amsterdam%2C%20Netherlands&pid=562949954221949&domain=booking.com&triggerGoButton=false) | [新加坡](https://jobs.booking.com/careers?location=Singapore%2C%20Singapore&pid=562949955522088&domain=booking.com) | [美国](https://jobs.booking.com/careers?location=us&pid=562949954221671&domain=booking.com&triggerGoButton=false)
+  - Tubi - [全球](https://corporate.tubitv.com/company/careers/) | 中国 | 美国
+  - Affirm - [全球](https://www.affirm.com/careers#openings) | 加拿大 | 美国
+  - Linkedin - [全球](https://careers.linkedin.com/) | 中国 | 新加坡 | 爱尔兰 | 英国 | 美国
 - 招聘平台
   - [LinkedIn](https://www.linkedin.com/)
   - [GitHub Jobs](https://jobs.github.com/)
@@ -82,13 +88,14 @@
 - 澳大利亚
   - [2020澳洲技术移民分详解](https://zhuanlan.zhihu.com/p/39336962)
 - 沙特阿拉伯
-  - 
+  -
 
 # 海外生活
 
 # 资料汇总
 
 - 精华分享
+  
   - [如何找到时薪80美元的远程工作](https://geekplux.com/posts/how-to-get-jobs-pay-80-dollars-per-hour-1)
   - 弈心 - 沙特阿拉伯 - KAUST
     - [在沙特阿卜杜拉国王科技大学（KAUST）就读或者任教是一种怎样的体验？ - 弈心的回答 - 知乎](https://www.zhihu.com/question/33274986/answer/188049916)
@@ -96,8 +103,9 @@
     - [出国给你最大的感受是什么？ - 弈心的回答 - 知乎](https://www.zhihu.com/question/30215562/answer/2153979578)
     - [网络工程师在国外和国内工作都有哪些不一样的体验？ - 弈心的回答 - 知乎](https://www.zhihu.com/question/339990110/answer/1546431425)
     - [在阿卜杜拉国王科技大学(KAUST)工作是一种怎样的体验？ - 弈心的回答 - 知乎](https://www.zhihu.com/question/319635794/answer/647707571)
-      
+
 - 网站&工具
+  
   - [1point3acres](https://www.1point3acres.com/) - 一亩三分地，美国华人留学找工作最好的论坛
   - [levels.fyi](https://www.levels.fyi/) - 职级比较查询
   - [glassdoor](https://www.glassdoor.com/) - 公司评价，offer比较
@@ -109,4 +117,5 @@
   - [ruby-china](https://ruby-china.org)
 
 # 联系我们
- - 内推、加群 - https://www.jumpcareer.xyz/
+
+- 内推、加群 - https://www.jumpcareer.xyz/

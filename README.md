@@ -75,9 +75,10 @@
 - [圆领](https://www.yuanling.com/)  
 
 ## 其他
-  - [GitHub - lukasz-madon/awesome-remote-job: A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python](https://github.com/lukasz-madon/awesome-remote-job)
-  - [GitHub - remoteintech/remote-jobs: A list of semi to fully remote-friendly companies (jobs) in tech.](https://github.com/remoteintech/remote-jobs)
-  - [GitHub - t9tio/open-source-jobs: A list of Open Source projects offering jobs.](https://github.com/t9tio/open-source-jobs)
+
+- [GitHub - lukasz-madon/awesome-remote-job: A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python](https://github.com/lukasz-madon/awesome-remote-job)
+- [GitHub - remoteintech/remote-jobs: A list of semi to fully remote-friendly companies (jobs) in tech.](https://github.com/remoteintech/remote-jobs)
+- [GitHub - t9tio/open-source-jobs: A list of Open Source projects offering jobs.](https://github.com/t9tio/open-source-jobs)
 
 # 面试
 

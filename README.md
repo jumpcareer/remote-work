@@ -32,7 +32,7 @@
 | [Snapchat](https://snap.com/en-US/jobs)                                                         | 🇨🇳                                                                                                                                                              |                                                                                                                                                                    |                                                                                                                                                                       |                                                                                                                                                                |                                                                                                                                                                    | 🇺🇸                                                                                                                                                               | 🇸🇬 |      |     |                                                                                                                                                                           |
 | [Linkedin](https://careers.linkedin.com/)                                                       | 🇨🇳                                                                                                                                                              |                                                                                                                                                                    |                                                                                                                                                                       | 🇬🇧                                                                                                                                                           |                                                                                                                                                                    | 🇺🇸                                                                                                                                                               |      |      |     | [🇮🇪](https://en.wikipedia.org/wiki/Ireland) \| etc                                                                                                                      |
 | [IBM](https://www.ibm.com/employment/#jobs)                                                     | 🇨🇳                                                                                                                                                              | 🇨🇦                                                                                                                                                               | 🇦🇺                                                                                                                                                                  | 🇬🇧                                                                                                                                                           |                                                                                                                                                                    | 🇺🇸                                                                                                                                                               | 🇸🇬 |      |     | etc                                                                                                                                                                       |
-| [VMvare](https://careers.vmware.com/main/)                                                      | 🇨🇳                                                                                                                                                              |                                                                                                                                                                    | 🇦🇺                                                                                                                                                                  | 🇬🇧                                                                                                                                                           | 🇯🇵                                                                                                                                                               | 🇺🇸                                                                                                                                                               | 🇸🇬 | 🇳🇱 |     |                                                                                                                                                                           |
+| [VMvare](https://careers.vmware.com/main/)                                                      | 🇨🇳                                                                                                                                                              | 🇨🇦                                                                                                                                                               | 🇦🇺                                                                                                                                                                  | 🇬🇧                                                                                                                                                           | 🇯🇵                                                                                                                                                               | 🇺🇸                                                                                                                                                               | 🇸🇬 | 🇳🇱 |     |                                                                                                                                                                           |
 | [SmartNews](https://careers.smartnews.com/jobs/)                                                | 🇨🇳                                                                                                                                                              |                                                                                                                                                                    |                                                                                                                                                                       |                                                                                                                                                                | 🇯🇵                                                                                                                                                               | 🇺🇸                                                                                                                                                               | 🇸🇬 |      |     |                                                                                                                                                                           |
 | [Workstream](https://careers.workstream.us/)                                                    | 🇨🇳                                                                                                                                                              | 🇨🇦                                                                                                                                                               |                                                                                                                                                                       |                                                                                                                                                                |                                                                                                                                                                    | 🇺🇸                                                                                                                                                               |      |      |     |                                                                                                                                                                           |
 | [Freewheel](https://comcast.jibeapply.com/main/jobs?keywords=freewheel&sortBy=relevance&page=1) | 🇨🇳                                                                                                                                                              |                                                                                                                                                                    |                                                                                                                                                                       | 🇬🇧                                                                                                                                                           |                                                                                                                                                                    | 🇺🇸                                                                                                                                                               | 🇸🇬 |      |     |                                                                                                                                                                           |
@@ -105,35 +105,31 @@
   - [2020澳洲技术移民分详解](https://zhuanlan.zhihu.com/p/39336962)
 - 沙特阿拉伯
 
-# 海外生活
+# 精华分享
 
-# 资料汇总
-
-## 精华分享
-
-### 海外工作
+## 海外工作
 
 - [如何找到时薪80美元的远程工作](https://geekplux.com/posts/how-to-get-jobs-pay-80-dollars-per-hour-1)
 - [海外电商互联网投递记录](https://mp.weixin.qq.com/s/GcjQzd7IzFH9DutrPQhYdg)
 
-#### 美国
+### 美国
 
 - [美硕转码成功上岸Google经验分享](https://mp.weixin.qq.com/s/8fgyshX-P34GjBs4mHXmrw)
 - [美国码农的真实生活体验](https://mp.weixin.qq.com/s/0qm2moHZLkuFOtCOL8oBbw)
 - [美国程序员面试指南](https://mp.weixin.qq.com/s/_Ivl7pGlIBvvjCdtETYuuw)
 
-#### 新加坡
+### 新加坡
 
 - [新加坡字节产品经理](https://mp.weixin.qq.com/s/IBgz_YFZI1rF_fD7BGe2iA)
 - [Shopee后端面经+真实工作体验分享](https://mp.weixin.qq.com/s/LDVOgdQFoZD3szOn5RCqZw)
 - [新加坡工作与生活的干货总结](https://mp.weixin.qq.com/s/KcUgTmJ2italaQT_5qFJUw)
 - [新加坡互联网面经汇总](https://mp.weixin.qq.com/s/TqbMRp_vDCiz_iw7YzKtEw)
 
-#### 荷兰
+### 荷兰
 
 - [荷兰程序猿的真实工作与生活体验分享](https://mp.weixin.qq.com/s/zq4ixOmE0hDM8CKkuAQ2NA)
 
-#### 瑞典
+### 瑞典
 
 - [瑞典Spotify肉身翻墙亲身经历](https://mp.weixin.qq.com/s/cIrEFtTjIoqAUj5D4Ya6DQ)
 
@@ -146,13 +142,13 @@
   - [网络工程师在国外和国内工作都有哪些不一样的体验？ - 弈心的回答 - 知乎](https://www.zhihu.com/question/339990110/answer/1546431425)
   - [在阿卜杜拉国王科技大学(KAUST)工作是一种怎样的体验？ - 弈心的回答 - 知乎](https://www.zhihu.com/question/319635794/answer/647707571)
 
-### 国内外企
+## 国内外企
 
 - [微软前端面经+真实工作体验分享](https://mp.weixin.qq.com/s/4qEYXADol3gboM7IShrpkQ)
 
 
 
-## 网站&工具
+# 网站&工具
 
 - [1point3acres](https://www.1point3acres.com/) - 一亩三分地，美国华人留学找工作最好的论坛
 - [levels.fyi](https://www.levels.fyi/) - 职级比较查询
